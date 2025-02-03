@@ -95,7 +95,10 @@
       "__hash_table": "cpp",
       "__split_buffer": "cpp",
       "__tree": "cpp",
-      "queue": "cpp"
+      "queue": "cpp",
+      "codecvt": "cpp",
+      "condition_variable": "cpp",
+      "shared_mutex": "cpp"
     },
     "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
     "editor.suggest.snippetsPreventQuickSuggestions": false,

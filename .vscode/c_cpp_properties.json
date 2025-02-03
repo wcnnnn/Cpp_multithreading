@@ -13,10 +13,10 @@
           "__CUDACC__"
         ],
         "windowsSdkVersion": "10.0.18362.0",
-        "compilerPath": "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.4/bin/nvcc.exe",
+        "compilerPath": "C:/mingw64/bin/g++.exe",
         "cStandard": "c17",
         "cppStandard": "c++17",
-        "intelliSenseMode": "windows-msvc-x64",
+        "intelliSenseMode": "windows-gcc-x64",
         "configurationProvider": "ms-vscode.cmake-tools"
       }
     ],
